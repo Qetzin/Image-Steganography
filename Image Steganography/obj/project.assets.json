@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qetzi\\source\\repos\\Image Steganography\\Image Steganography\\Image Steganography.csproj",
+      "projectUniqueName": "C:\\Users\\qetzi\\OneDrive\\Documents\\GitHub\\Image-Steganography\\Image Steganography\\Image Steganography.csproj",
       "projectName": "Image Steganography",
-      "projectPath": "C:\\Users\\qetzi\\source\\repos\\Image Steganography\\Image Steganography\\Image Steganography.csproj",
+      "projectPath": "C:\\Users\\qetzi\\OneDrive\\Documents\\GitHub\\Image-Steganography\\Image Steganography\\Image Steganography.csproj",
       "packagesPath": "C:\\Users\\qetzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qetzi\\source\\repos\\Image Steganography\\Image Steganography\\obj\\",
+      "outputPath": "C:\\Users\\qetzi\\OneDrive\\Documents\\GitHub\\Image-Steganography\\Image Steganography\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

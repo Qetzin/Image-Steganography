@@ -16,3 +16,21 @@ C:\Users\qetzi\source\repos\Image Steganography\Image Steganography\obj\Debug\ne
 C:\Users\qetzi\source\repos\Image Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.genruntimeconfig.cache
 C:\Users\qetzi\source\repos\Image Steganography\Image Steganography\obj\Debug\net6.0-windows\ref\Image Steganography.dll
 C:\Users\qetzi\source\repos\Image Steganography\Image Steganography\obj\Debug\net6.0-windows\Image_Steganography.Form2.resources
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\bin\Debug\net6.0-windows\Image Steganography.exe
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\bin\Debug\net6.0-windows\Image Steganography.deps.json
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\bin\Debug\net6.0-windows\Image Steganography.runtimeconfig.json
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\bin\Debug\net6.0-windows\Image Steganography.dll
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\bin\Debug\net6.0-windows\Image Steganography.pdb
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.csproj.AssemblyReference.cache
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image_Steganography.Form1.resources
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image_Steganography.Form2.resources
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.csproj.GenerateResource.cache
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.AssemblyInfoInputs.cache
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.AssemblyInfo.cs
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.csproj.CoreCompileInputs.cache
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.dll
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\refint\Image Steganography.dll
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.pdb
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\Image Steganography.genruntimeconfig.cache
+C:\Users\qetzi\OneDrive\Documents\GitHub\Image-Steganography\Image Steganography\obj\Debug\net6.0-windows\ref\Image Steganography.dll
